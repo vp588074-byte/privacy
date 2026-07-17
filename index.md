@@ -1,14 +1,14 @@
 ---
-title: Privacy Policy — CNC Tool Setup Calculator
+title: Privacy Policy — ToolSetter
 ---
 
-# Privacy Policy — CNC Tool Setup Calculator
+# Privacy Policy — ToolSetter
 
 **Effective date:** 2026-07-16
 
 ## Overview
 
-CNC Tool Setup Calculator ("the app") is an offline, on-device calculator for machine-shop tool setups. This policy explains how the app handles data. In short: **the app collects nothing and sends nothing.**
+ToolSetter ("the app") is an offline, on-device calculator for machine-shop tool setups. This policy explains how the app handles data. In short: **the app collects nothing and sends nothing.**
 
 ## Information we collect
 
